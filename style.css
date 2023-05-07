@@ -29,8 +29,8 @@ body{
   
   .top, .bottom {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background-color: rgb(204, 202, 202);
     transform-style: preserve-3d;
